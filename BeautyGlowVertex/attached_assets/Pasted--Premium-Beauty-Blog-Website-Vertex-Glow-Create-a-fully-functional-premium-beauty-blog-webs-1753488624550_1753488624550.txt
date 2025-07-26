@@ -1,0 +1,149 @@
+# Premium Beauty Blog Website - "Vertex Glow"
+
+Create a fully functional, premium beauty blog website named "Vertex Glow" with modern animations and professional design. The website should have a sophisticated, high-end feel while being user-friendly and responsive.
+
+## Design Requirements
+
+### Visual Design
+- **Color Scheme**: Modern neutral tones (whites, grays, beiges) with elegant accent colors (rose gold, soft pink, or teal)
+- **Typography**: Clean, modern fonts with excellent readability
+- **Layout**: Clean, sophisticated grid-based layout with proper white space
+- **Style**: Premium, magazine-style design with professional visual hierarchy
+
+### Animations & Interactions
+- **Smooth scrolling effects** throughout the website
+- **Parallax scrolling** for hero sections and featured content
+- **Image hover animations** with smooth transitions
+- **Loading animations** - elegant page and content loading effects  
+- **Micro-interactions** on buttons, links, and interactive elements
+- **Smooth transitions** between pages and sections
+- **Fade-in animations** for content as user scrolls
+
+## Website Structure & Features
+
+### Header & Navigation
+- Sticky navigation bar with smooth hide/show on scroll
+- Logo/brand name "Aesthetic Avenue"
+- Main navigation: Home, Makeup, Skincare, Hair Care, Fashion, About, Contact
+- Advanced search bar with live search suggestions
+- Social media icons with hover animations
+
+### Homepage Layout
+1. **Hero Section**:
+   - Eye-catching banner with parallax background
+   - Welcome message and tagline
+   - Call-to-action button for newsletter signup
+
+2. **Featured Posts Section**:
+   - Large featured article with overlay text
+   - Grid of 3-4 recent highlight posts
+
+3. **Categories Section**:
+   - Visual category cards (Makeup, Skincare, Hair Care, Fashion)
+   - Hover effects on category cards
+
+4. **Popular/Trending Posts Widget**:
+   - Sidebar or dedicated section showing most viewed content
+   - View counts and engagement metrics
+
+5. **Newsletter Signup**:
+   - Elegant signup form with animation
+   - Incentive offer (e.g., "Get weekly beauty tips")
+
+### Blog Post Features
+- **Full blog post pages** with rich content layout
+- **Comment system** - functional comment forms and display
+- **Related posts section** at the bottom of each article
+- **Social sharing buttons** for each post (Facebook, Instagram, Pinterest, Twitter)
+- **Tags system** with clickable tag clouds
+- **Author bio section** 
+- **Reading time estimate**
+- **Post navigation** (Previous/Next articles)
+
+### Essential Pages
+- **About Page**: Professional about section with author/brand story
+- **Contact Us**: Contact form with multiple contact methods
+- **Privacy Policy**: Comprehensive privacy policy page
+- **Terms of Service**: Legal terms page
+- **Categories Pages**: Dedicated pages for each content category
+
+### Monetization Features
+- **Affiliate link integration** - buttons and banners for Amazon, Nykaa, etc.
+- **Sponsored post sections** - clearly marked sponsored content areas
+- **Ad placement areas** - designated spaces for banner advertisements
+- **Product showcase section** - area for promoting own products
+
+## Technical Requirements
+
+### Functionality
+- **Advanced search functionality** with filters (category, tags, date)
+- **Detailed tagging system** with tag-based content filtering
+- **Mobile-responsive design** - perfect display on all devices
+- **Fast loading times** despite rich animations
+- **SEO optimized** structure and meta tags
+- **Newsletter subscription** with email collection
+
+### Interactive Elements
+- Working contact forms with validation
+- Functional search with real-time results
+- Interactive comment system
+- Social media integration
+- Newsletter signup with confirmation
+
+### Content Management
+- Easy content update system
+- Category-wise organization
+- Tag management system
+- Image gallery capabilities
+- Multiple content formats support
+
+## Content Guidelines
+
+### Target Audience
+- **Primary**: Teenagers and young adults (16-30 years)
+- **Language**: Bilingual content support (Hindi & English)
+- **Tone**: Friendly, approachable, yet professional
+
+### Content Categories
+1. **Makeup Tutorials**: Step-by-step guides, product reviews
+2. **Skincare Tips**: Routines, ingredient guides, problem-solving
+3. **Hair Care**: Styling tips, treatment guides, product recommendations
+4. **Fashion**: Beauty trends, seasonal looks, style guides
+
+### Sample Content Structure
+- Include placeholder blog posts for each category
+- Sample product review format
+- Tutorial-style content layout
+- Before/after image placeholders
+
+## Advanced Features
+
+### User Experience
+- Smooth page transitions
+- Intuitive navigation flow
+- Quick loading with progressive enhancement
+- Accessible design (keyboard navigation, screen reader friendly)
+
+### Performance
+- Optimized images and animations
+- Efficient code structure
+- Fast loading despite rich features
+- Mobile-optimized performance
+
+### Engagement Features
+- Related content suggestions
+- Popular posts tracking
+- Social proof elements (view counts, shares)
+- Newsletter integration with incentives
+
+## Design Inspiration
+Create a website that feels like a premium beauty magazine with modern web capabilities. Think Vogue, Elle, or Allure but as an interactive blog. The design should be sophisticated enough for professional partnerships while remaining approachable for young audiences.
+
+## Final Notes
+- Ensure all features are fully functional, not just placeholder elements
+- Create a cohesive visual identity throughout the site
+- Balance visual appeal with usability
+- Make the website feel premium and trustworthy for affiliate partnerships
+- Include sample content to demonstrate the layout and functionality
+
+The final website should be ready for immediate use with the ability to easily add real content and customize as needed.
